@@ -1,5 +1,10 @@
 # Pizza-Sales-Performance
 
+![image](https://github.com/monill1/Pizza-Sales-Performance/assets/100589518/5cdbdd18-758b-409c-a397-a3d848612ca7)
+![image](https://github.com/monill1/Pizza-Sales-Performance/assets/100589518/2ec756a0-dbca-407b-9c70-22d17046d713)
+
+
+
 ### PROBLEM STATEMENT
 
 #### KPI’s REQUIREMENT
